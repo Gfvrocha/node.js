@@ -1,0 +1,40 @@
+{
+  "urls": [
+    {
+      "name": "JovemPan",
+      "url": "https://jovempan.com.br"
+    },
+    {
+      "name": "Google",
+      "url": "http://google.com"
+    },
+    {
+      "name": "Google",
+      "url": "http://discord.com"
+    },
+    {
+      "name": "Google",
+      "url": "http://discord.com$del=1"
+    },
+    {
+      "name": "Google",
+      "url": "http://discord.com$del=1"
+    },
+    {
+      "name": "Google",
+      "url": "http://discord.com$del=1"
+    },
+    {
+      "name": "Google",
+      "url": "http://discord.com$del=1"
+    },
+    {
+      "name": "Discord",
+      "url": "http://discord.com$del=1"
+    },
+    {
+      "name": "Discord",
+      "url": "http://discord.com$del=1"
+    }
+  ]
+}
